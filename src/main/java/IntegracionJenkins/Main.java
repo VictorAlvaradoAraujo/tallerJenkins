@@ -9,7 +9,7 @@ package IntegracionJenkins;
 public class Main {
     
     public static void main(String[] args){
-        RelationalOperator relOp=new RelationalOperator();
+    	RelationalOperator relOp=new RelationalOperator();
         final int max_height = 15;
         final int max_width = 10;
         final int min_height = 5;
